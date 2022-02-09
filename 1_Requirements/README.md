@@ -1,5 +1,9 @@
 # Requirements
 
+Book management
+## Research
+It consists of various features which is helpful to store the details of the book and manage it efficiently.It helps to search the required book easily.
+ 
 ## High level requirement
 * Display the details of the book.
 * Total number of books in the library.
@@ -26,3 +30,15 @@
 
 ## Threats
 * Modification in the book details not possible.
+
+# 4W's 1-H
+* WHAT
+  It is a program which collects and manages the book information.
+* WHY
+  It helps to manage and search the book as per the requirement.
+* WHEN 
+  Useful when book details is required and a book has to be searched.
+* WHO 
+  It is useful for the librarian and the book issuer.
+* HOW
+  Implemented using various functions in C-program.
