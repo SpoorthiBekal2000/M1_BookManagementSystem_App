@@ -2,7 +2,7 @@
 
 Book management
 ## Research
-It consists of various features which is helpful to store the details of the book and manage it efficiently.It helps to search the required book easily.
+It consists of features which is helpful to store the details of the book and manage it efficiently.It helps to search the required book easily.
  
 ## High level requirement
 * Display the details of the book.
