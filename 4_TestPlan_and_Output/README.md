@@ -36,3 +36,15 @@
   * OUTPUT5
   
 ![f5](https://user-images.githubusercontent.com/47130806/153585184-00f593a4-1937-4824-9423-c824d5efb2e5.PNG)
+
+
+
+## TABLE
+|ID|Description|Input|Expected Output|
+|:-|:----------|:----|:--------------|
+|1 |Read the book details|a=1|Request user to enter the book details|
+|2 |Disply the book details|a=2|Display the details entered by the user|
+|3 |Search for the book|a=3|Request user to enter the name of the book to be found and search it,if found display details else display NOT FOUND|
+|4 |Count the totalnumber of books available|a=4|Increase the count of books as new book add |
+
+NOTE: a is the option that user has to select depending on the function to be performed.
