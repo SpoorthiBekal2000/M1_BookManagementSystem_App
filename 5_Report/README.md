@@ -1,7 +1,7 @@
 # Title: BOOK MANAGEMENT
 It is a program which has certain features to maintain the book details and also help in finding the required book along with the number of books available.
 
-## Features:
+## Features
 * Read the book details from the user.
 * Display the book details.
 * Search for a paticular book.
