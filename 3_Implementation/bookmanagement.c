@@ -8,7 +8,7 @@ int main(void)
     char name[20],authorname[20];
 while(option!=5)
 {
-    printf("\n 1.Press 1 to add new book");
+    printf("\n Press 1 to add new book");
     printf("\n Press 2 to display book");
     printf("\n Press 3 to search book");
     printf("\n Press 4 to delete book");
