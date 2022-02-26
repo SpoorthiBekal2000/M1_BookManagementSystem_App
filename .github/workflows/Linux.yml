@@ -13,6 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: makefile
-      run: makefile run -C 3_Implementation
+    - name: make
+      run: make run -C 3_Implementation
     
