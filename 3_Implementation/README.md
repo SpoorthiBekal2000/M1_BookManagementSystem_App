@@ -1,5 +1,5 @@
 # Code Implementation
-* It consists of 
+## It consists of 
 * Header file : bookmanagement.h
 * Main file : bookmanagement.c
-* Function files :
+* Function files :newbook.c,displaybook.c,searchbook.c,deletebook.c
