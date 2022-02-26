@@ -1,4 +1,4 @@
-name: Windows C/C++ CI
+name: Windows C/C++ C
 
 on:
   push:
