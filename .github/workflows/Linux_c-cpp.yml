@@ -14,6 +14,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: build
-      run: gcc bookmanagement.c -o bookmanagement.exe
+      run: gcc newbook.c -o newbook.exe
     - name: Run
-      run: ./bookmanagement.exe
+      run: ./newbook.exe
