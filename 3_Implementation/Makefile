@@ -1,13 +1,14 @@
 #Target_name : Dependencies
 #<TAB>Command
+PROJ_NAME  = bookmanagement
 SRC = bookmanagement.c newbook.c displaybook.c searchbook.c deletebook.c
 INC = bookmanagement.h
 
-all.out : $(SRC) $(INC)
-	gcc $^ -o $@
+Build : $(SRC) $(INC)
+	gcc $(SRC) -o$(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
 
-run: target
-	./all.out
+run:Build
+	./$(call FixPath,$(PROJ_NAME).$(EXEC))
 
 clean:
 	rm all.out

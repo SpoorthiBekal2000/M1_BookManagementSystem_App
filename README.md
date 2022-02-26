@@ -29,3 +29,6 @@ CODIGA
 [![Code Grade](https://api.codiga.io/project/31251/score/svg)](https://www.codiga.io)
 [![Code Grade](https://api.codiga.io/project/31251/status/svg)](https://www.codiga.io)
 
+
+Linux
+[![linux](https://github.com/SpoorthiBekal2000/M1_BookManagementSystem_App/actions/workflows/linux.yml/badge.svg)](https://github.com/SpoorthiBekal2000/M1_BookManagementSystem_App/actions/workflows/linux.yml)

@@ -1,4 +1,4 @@
-name: Windows C/C++ CI
+name: Windows C/C++ C
 
 on:
   push:
@@ -13,7 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: build
-      run: gcc bookmanagement.c -o bookmanagement.exe
-    - name: Run
-      run: .\bookmanagement.exe
+    - name: make
+      run: make run -C 3_Implementation
+    
