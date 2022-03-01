@@ -1,9 +1,15 @@
 # Design 
-## Structural
-![diagram](https://user-images.githubusercontent.com/47130806/153227089-347f68b2-d72b-4870-a149-2d2a21d5430a.PNG)
+## Structural Diagram
 
-## Behavioural 
-![FUCTIONS](https://user-images.githubusercontent.com/47130806/153227136-e8685310-5f76-42ca-ac12-2a36083487aa.PNG)
+![structure](https://user-images.githubusercontent.com/47130806/156202311-452fa7ec-1e1a-4864-8b20-4a25120e6310.PNG)
+
+
+## Behavioural Diagram
+
+![behavioural](https://user-images.githubusercontent.com/47130806/156209645-3a27c230-37bf-4096-90a8-d90af5dbd4b0.PNG)
+
+
 
 ## Flow Chart
-![FLOWCHART](https://user-images.githubusercontent.com/47130806/153545316-88389225-83dd-4665-88ab-18462dc8ef0c.PNG)
+
+![flow chart](https://user-images.githubusercontent.com/47130806/156200549-72d5b1fd-92c4-42dc-b29e-64111de9a5c3.PNG)
