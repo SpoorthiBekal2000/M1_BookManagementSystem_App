@@ -15,6 +15,8 @@
 
 ## Implentaion
 * C-program code implementation
+* Make File
+* Workflow
 
 ## TestPlan and Output
 * Consists the information about the input,expected Output and the actual output. 
