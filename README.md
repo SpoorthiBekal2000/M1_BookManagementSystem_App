@@ -3,8 +3,8 @@
 ## Project Goal : Book Management 
 
 ## Requirements
-* It consists of features which is helpful to store the details of the book and manage it efficiently.It helps to search the required book easily.
-* It consists of the features of the program
+* High Level Requirements
+* Low Level Requirements
 * SWOT analysis
 * 4W's 1H
 
