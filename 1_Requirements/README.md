@@ -54,10 +54,3 @@ Books are one of the major source of information,as the number of these books in
 
 
 
-
-User friendly as it provides various operation to the user to easily manage the books.
-User can add details of number of books,and can easily find it,delete it and display it.
-
-
-User has to exit from the main program after completion of every operation. 
-In case of wrong entry of particular data of the book,it cannot be changed immediately entire book has to be deleted and re-entered.
