@@ -39,17 +39,8 @@ Books are one of the major source of information,as the number of these books in
 
 
 ## 4W's 1-H
-* WHAT
-  It is a program which collects and manages the book information.
-* WHY
-  It helps to manage and search the book as per the requirement.
-* WHEN 
-  Useful when book details is required and a book has to be searched.
-* WHO 
-  It is useful for the librarian and the book issuer.
-* HOW
-  Implemented using various functions in C-program.
 
+![4W1H](https://user-images.githubusercontent.com/47130806/156157681-ca002ce3-7d53-4331-a9e6-c2412594a9ee.PNG)
 
 
 
