@@ -1,13 +1,10 @@
-# Requirements
+# Project Title : BOOK MANAGEMENT
 
-Book management
 ## Research
-It consists of features which is helpful to store the details of the book and manage it efficiently.It helps to search the required book easily.
+Books are one of the major source of information,as the number of these books increases storing it in huge quantity will be a huge task.C programming will help in such cases and makes life simpler.In this project C-programming is used to store the details of the book,display it,search for a book and delete it according to the user requirement.
  
 ## High level requirement
-* Display the details of the book.
-* Total number of books in the library.
-* Search for a particular book.
+||Description|
 
 ## Low level requirement
 * Collect the book information.
