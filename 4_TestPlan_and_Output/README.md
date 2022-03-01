@@ -1,50 +1,10 @@
 # Test Plan and Output
-## Features
-1. Read the book details
-    * User has to enter the book details i.e,the book name,name of the author and number of pages in the book.
-    * Program has to store all the entered details accordingly.
-    * OUTPUT1
-    
-        ![f1](https://user-images.githubusercontent.com/47130806/153584965-aae24db5-7139-4c4a-a7d2-5c17cdebbcfa.PNG)
-
-
-2. Display the book details
-    * The book details entered by the user should be displayed when the user chooses the second option.
-    * Book details of the stored books has to be displayed.
-    * OUTPUT2
-      
-      ![f2](https://user-images.githubusercontent.com/47130806/153585103-a415c1e5-ecdd-4b3b-a627-4c5c931cd251.PNG)
-
-
-3. Search a particular book.
-    * User has to enter the name of the book that needs to be searched.
-    * If the requested book is found the book details has to be displayed,if not found a message stating "Book not found" has to be displayed.
-    * OUTPUT3
-      
-  ![f3](https://user-images.githubusercontent.com/47130806/153585140-862c4d85-aa22-4ee7-b913-9105f3e90e08.PNG)
-  ![f3'](https://user-images.githubusercontent.com/47130806/153585163-a9decd34-4034-4113-b796-29ed6907dfe2.PNG)
-
-
-4. Count of the books
-    * Displays the number of books available.
-    * As the books add,the count has to be increased.
-    * OUTPUT4
-      
-![f4](https://user-images.githubusercontent.com/47130806/153585172-1b7d8a89-774e-4ced-aeb2-29eb6f902700.PNG)
-
-5.Exit
-  * OUTPUT5
-  
-![f5](https://user-images.githubusercontent.com/47130806/153585184-00f593a4-1937-4824-9423-c824d5efb2e5.PNG)
-
-
-
 ## TABLE
-|ID|Description|Input|Expected Output|
-|:-|:----------|:----|:--------------|
-|1 |Read the book details|a=1|Request user to enter the book details|
-|2 |Disply the book details|a=2|Display the details entered by the user|
-|3 |Search for the book|a=3|Request user to enter the name of the book to be found and search it,if found display details else display NOT FOUND|
-|4 |Count the totalnumber of books available|a=4|Increase the count of books as new book add |
+|ID|Description|Input|Function Input|Expected Output|Actual Output|
+|:-|:-|:-|:-|:-|:-|
+|1 |Add the book details|option=1|book number,book name,author name|Should display the book number,book name and author and accept the entry from the user|Success|
+|2 |Display the book details|option=2||Display the details of the book entered by the user|Success|
+|3 |Search the book|option=3|book number|Search book details,if found display details else display not found|Success|
+|4 |Delete the book|option=4|book number|Delete book details|Success|
 
-NOTE: a is the option that user has to select depending on the function to be performed.
+
