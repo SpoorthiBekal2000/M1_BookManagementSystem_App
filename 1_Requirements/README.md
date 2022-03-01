@@ -33,21 +33,10 @@ Books are one of the major source of information,as the number of these books in
 |     |LLR_5.3|Book details of the corresponding book number shall be deleted.|
 
 ## SWOT Analysis
-## Strength
-* Contain Detailed information about the book.
-* Store the exact count of the books.
-* Easy for the reader to search the boook.
 
-## Weakness
-* Limitation in the number of books stored.
-* Lack information about the borrower.
+![SWOT1](https://user-images.githubusercontent.com/47130806/156153394-899c7638-65e2-40a6-8c43-c056415e0f45.PNG)
 
-## Opportunities
-* Manage the details of the borrower.
-* Give details about the borrowed and returned date and time.
 
-## Threats
-* Modification in the book details not possible.
 
 ## 4W's 1-H
 * WHAT
@@ -60,3 +49,15 @@ Books are one of the major source of information,as the number of these books in
   It is useful for the librarian and the book issuer.
 * HOW
   Implemented using various functions in C-program.
+
+
+
+
+
+
+User friendly as it provides various operation to the user to easily manage the books.
+User can add details of number of books,and can easily find it,delete it and display it.
+
+
+User has to exit from the main program after completion of every operation. 
+In case of wrong entry of particular data of the book,it cannot be changed immediately entire book has to be deleted and re-entered.
