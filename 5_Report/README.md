@@ -25,6 +25,4 @@ It is a program which has features which help the user to collect book details a
 * https://www.cppbuzz.com/projects/c/library-management-in-c
 * https://www.interviewbit.com/blog/c-projects/
 * https://joombig.com/sqlc/Mini-project-%E2%80%9CLibrary-management-system%E2%80%9D-using-C-%E2%80%93-Free-Code-tutorials-advance
-* https://itsourcecode.com/free-projects/c-projects/library-management-system-in-c-with-source-code/
-* https://2k8618.blogspot.com/2009/10/library-management-system-c-program-s3.html
-* https://aticleworld.com/library-management-system-project-in-c/
+
