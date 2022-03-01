@@ -3,7 +3,7 @@
 ## Research
 Books are one of the major source of information,as the number of these books increases storing it in huge quantity will be a huge task.C-programming will help in such cases and makes life simpler.In this project C-programming is used to store the details of the book,display it,search for a book and delete it according to the user requirement.
  
-# Requirements
+## Requirements
 ### High level requirement
 |ID|Description|
 |:-|:----------|
@@ -32,7 +32,7 @@ Books are one of the major source of information,as the number of these books in
 |     |LLR_5.2|The book number shall be accepted and is searched among all the available book.|
 |     |LLR_5.3|Book details of the corresponding book number shall be deleted.|
 
-# SWOT Analysis
+## SWOT Analysis
 ## Strength
 * Contain Detailed information about the book.
 * Store the exact count of the books.
@@ -49,7 +49,7 @@ Books are one of the major source of information,as the number of these books in
 ## Threats
 * Modification in the book details not possible.
 
-# 4W's 1-H
+## 4W's 1-H
 * WHAT
   It is a program which collects and manages the book information.
 * WHY
