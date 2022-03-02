@@ -20,7 +20,7 @@
 * Doxygen documentation
 
 ## TestPlan and Output
-* Consists the information about the input,expected Output and the actual output. 
+* Consists the information about the input,expected output and the actual output. 
 
 ## Badge
 CODACY
